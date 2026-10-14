@@ -1,0 +1,29 @@
+{
+    "user_info": {
+        "first_name": "Lilit",
+        "last_name": "Princess",
+        "email": "lilit@data.com",
+        "password": "lilitdata"
+    },
+    "shipping_address": {
+        "country": "22",
+        "city": "pereira",
+        "address_1": "carrera 19",
+        "zip_postal_code": "902982",
+        "phone_number": "3128279343"
+    },
+    "payment_method": {
+        "type": "Credit Card",
+        "card_type": "Visa",
+        "cardholder_name": "Barbara Gordon",
+        "card_number": "4485564059489345",
+        "expiration_month": "4",
+        "expiration_year": "2039",
+        "card_code": "123"
+    },
+    "order_confirmation": {
+        "msg_registration": "Your registration completed",
+        "msg_add_cart": "The product has been added to your shopping cart",
+        "msg_order_ok": "Your order has been successfully processed!"
+    }
+}
